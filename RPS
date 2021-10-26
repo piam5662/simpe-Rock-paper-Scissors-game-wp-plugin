@@ -19,7 +19,7 @@ function gamePlay()
     if (isset($_POST['Reset'])) {
         $_SESSION['win'] = 0;
         $_SESSION['pcWin'] = 0;
-    }
+    }// reset the game
 
     if (isset($_POST['Play'])) { //check if form was submitted
 
