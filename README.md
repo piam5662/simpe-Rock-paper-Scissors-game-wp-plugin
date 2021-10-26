@@ -1,0 +1,1 @@
+# simpe-Rock-paper-Scissors-game-wp-plugin
